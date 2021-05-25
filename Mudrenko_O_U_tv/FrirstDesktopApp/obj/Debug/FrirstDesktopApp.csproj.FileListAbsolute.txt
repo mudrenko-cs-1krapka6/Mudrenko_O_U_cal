@@ -1,0 +1,43 @@
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopApp\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.exe.config
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopApp\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.exe
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopApp\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.pdb
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopApp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopApp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.exe
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopApp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.pdb
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopApp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.MainForm.resources
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopApp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csproj.GenerateResource.Cache
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.MainForm.resources
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csproj.GenerateResource.Cache
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.exe
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopAppRegExp\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.exe.config
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopAppRegExp\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.exe
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopAppRegExp\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.pdb
+C:\Users\Yuriy\Documents\SharpDevelop Projects\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.pdb
+D:\навчання\донну\програм\Я\2 с\пари\пари\FrirstDesktopAppRegExp\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.exe.config
+D:\навчання\донну\програм\Я\2 с\пари\пари\FrirstDesktopAppRegExp\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.exe
+D:\навчання\донну\програм\Я\2 с\пари\пари\FrirstDesktopAppRegExp\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.pdb
+D:\навчання\донну\програм\Я\2 с\пари\пари\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csprojAssemblyReference.cache
+D:\навчання\донну\програм\Я\2 с\пари\пари\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.MainForm.resources
+D:\навчання\донну\програм\Я\2 с\пари\пари\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csproj.GenerateResource.cache
+D:\навчання\донну\програм\Я\2 с\пари\пари\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csproj.CoreCompileInputs.cache
+D:\навчання\донну\програм\Я\2 с\пари\пари\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.exe
+D:\навчання\донну\програм\Я\2 с\пари\пари\FrirstDesktopAppRegExp\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.pdb
+D:\Yaropud_V_O_ind_2.1.2\Yaropud_V_O_ind_2.1.2\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csprojAssemblyReference.cache
+D:\Yaropud_V_O_ind_2.1.2\Yaropud_V_O_ind_2.1.2\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.MainForm.resources
+D:\Yaropud_V_O_ind_2.1.2\Yaropud_V_O_ind_2.1.2\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csproj.GenerateResource.cache
+D:\Yaropud_V_O_ind_2.1.2\Yaropud_V_O_ind_2.1.2\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csproj.CoreCompileInputs.cache
+D:\Yaropud_V_O_ind_2.1.2\Yaropud_V_O_ind_2.1.2\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.exe
+D:\Yaropud_V_O_ind_2.1.2\Yaropud_V_O_ind_2.1.2\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.pdb
+C:\Users\HP\Desktop\Yaropud_V_O_ind_2.1.2\Yaropud_V_O_ind_2.1.2\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Yaropud_V_O_ind_2.1.2\Yaropud_V_O_ind_2.1.2\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.MainForm.resources
+C:\Users\HP\Desktop\Yaropud_V_O_ind_2.1.2\Yaropud_V_O_ind_2.1.2\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Yaropud_V_O_ind_2.1.2\Yaropud_V_O_ind_2.1.2\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.exe
+C:\Users\HP\Desktop\Tkachuk_N_O_tv\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Tkachuk_N_O_tv\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.MainForm.resources
+C:\Users\HP\Desktop\Tkachuk_N_O_tv\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Tkachuk_N_O_tv\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.exe
+C:\Users\HP\Desktop\Tkachuk_N_O_tv\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.exe.config
+C:\Users\HP\Desktop\Tkachuk_N_O_tv\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.exe
+C:\Users\HP\Desktop\Tkachuk_N_O_tv\FrirstDesktopApp\bin\Debug\FrirstDesktopApp.pdb
+C:\Users\HP\Desktop\Tkachuk_N_O_tv\FrirstDesktopApp\obj\Debug\FrirstDesktopApp.pdb
